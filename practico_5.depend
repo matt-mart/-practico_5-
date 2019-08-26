@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1566780001 source:c:\users\adminpc\desktop\eda\practico_5\main.cpp
+	<iostream>
+	"./lib/mostrar.hpp"
+
+1566780047 c:\users\adminpc\desktop\eda\practico_5\lib\mostrar.hpp
+
